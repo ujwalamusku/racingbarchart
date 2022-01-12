@@ -4,6 +4,17 @@ You can use the [editor on GitHub](https://github.com/ujwalamusku/racingbarchart
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<div id="observablehq-chart-2efa2b86"></div>
+<p>Credit: <a href="https://observablehq.com/@ujwalamusku/bar-chart-race-artists">Bar Chart Race - Artists by Ujwala Musku</a></p>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@ujwalamusku/bar-chart-race-artists.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-2efa2b86"));
+});
+</script>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

@@ -1,6 +1,5 @@
 <div id="observablehq-chart-bb7ca706"></div>
 <div id="observablehq-viewof-replay-bb7ca706"></div>
-<p>Credit: <a href="https://observablehq.com/@ujwalamusku/bar-chart-race-artists">Bar Chart Race - Artists by Ujwala Musku</a></p>
 
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
